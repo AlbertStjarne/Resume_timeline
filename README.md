@@ -4,6 +4,8 @@ A website showing resume timeline, or any other timeline for that matter. You ca
 
 It is responsive with two media queries first shrinking the box size and at even smaller screen moving the line to the left and all boxex to the right side. It is not good for eg landscape iPhone X.
 
+JavaScript to enable fading in of the boxes once they get in the viewport.
+
 Icons are from Fontawsome via CDN.
 
 
